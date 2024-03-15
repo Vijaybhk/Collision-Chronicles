@@ -7,4 +7,4 @@ With the increase in the number of vehicles operating on the road, there is a ri
 
 There are multiple challenges with the methods by which the government is trying to prevent accidents. Hence, a robust analysis of road accidents enables us to identify and categorize the causes of road car accidents. The analysis and identification of the accident causes would help prevent similar accidents from happening again and paves a road map for future projects. This report aims to address this problem and examine the primary causes of the rise in car accidents.
 
-All the results and dashboards are available ![here](https://sites.google.com/sdsu.edu/titans)
+All the results and dashboards are available [here](https://sites.google.com/sdsu.edu/titans)
